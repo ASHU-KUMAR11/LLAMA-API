@@ -70,7 +70,7 @@ export default {
         JSON.stringify({
           reply: message,
           model: "Llama-3.1-8B",
-          dev: "YishuGoyalCGC",
+          dev: "AshishKumar",
         }),
         {
           headers: {
